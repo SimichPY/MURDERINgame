@@ -101,8 +101,6 @@
 **Заполните анкету**: [Анкета](https://forms.gle/katvrjYxKUT9mNMY6)
 
 Требования:
-- Опыт работы с Unity/C# (для программистов)
-- Портфолио работ (для художников/дизайнеров)
 - Готовность работать в команде
 - Страсть к хоррор-играм 😈
 
@@ -114,7 +112,5 @@ We're seeking talented developers to create next-gen horror! Want to contribute?
 **Fill out application**: [Form](https://forms.gle/q8iAqKiLWh7mKaLZ9)
 
 Requirements:
-- Unity/C# experience (for programmers)
-- Portfolio (for artists/designers)
 - Teamwork mindset
 - Passion for horror games 😈
